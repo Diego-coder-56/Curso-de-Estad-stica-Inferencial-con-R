@@ -1,0 +1,25 @@
+Discretas: El valor esperado esta dado por la sumatoria de la probabilidad de cada uno de los valores por el valor en cuestion.
+
+
+
+
+El valor esperado condicional
+
+Es el valor esperado de Y condicionado a la variable X. Obtenido a partir de la funcion de probabilidad o densidad condicional.
+
+
+
+
+
+
+
+
+El aprendizaje se divide en Supervisado y No Supervisado.
+
+El aprendizaje supervisado se divide en dos categorias:
+
+Regresion: Cuando la variable dependiente es continua.
+
+Clasificacion: Cuando la variable dependiente es categorica.
+
+
